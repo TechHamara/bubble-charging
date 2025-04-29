@@ -16,6 +16,16 @@ Bubble Charging Animation Extension is developed by th using Fast.<br>This exten
 
 ## Demo
 
+![Screenshot_2025-04-29-16-20-50-160_edu.mit.appinventor.aicompanion3.jpg](https://github.com/user-attachments/assets/973b4078-daa1-4cf0-9019-5c0a33a30924)
+
+![Screenshot_2025-04-29-19-26-04-956_appinventor.ai_Techhamara91.bubblecharging.jpg](https://github.com/user-attachments/assets/327e1887-c8b6-4fa8-ad5c-768ba2c63a2b)
+
+![Screenshot_2025-04-29-19-25-07-488_appinventor.ai_Techhamara91.bubblecharging.jpg](https://github.com/user-attachments/assets/aa16ed19-42ba-4ca2-94a9-b3ae63b0700c)
+
+![Screenshot_2025-04-29-16-18-51-863_edu.mit.appinventor.aicompanion3.jpg](https://github.com/user-attachments/assets/2209594d-191d-4064-b231-c25ee4a7d6d2)
+
+
+
 ## Blocks
 
 ![ToggleImmersiveMode_Method](https://github.com/user-attachments/assets/1d58eb40-f728-426a-bbc0-9e146dc4bb6c)
