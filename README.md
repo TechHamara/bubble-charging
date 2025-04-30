@@ -33,7 +33,7 @@ Bubble Charging Animation Extension is developed by th using Fast.<br>This exten
 
 ![1fbbf16b-18dc-4034-bc32-3f38e8178b63.gif](https://github.com/user-attachments/assets/f44cd1ea-137c-4df9-a58d-a078f84a459f)
 
-https://github.com/TechHamara/bubble-charging/blob/main/blocks.png
+![blocks (4).png](https://github.com/user-attachments/assets/ec9af427-b0c5-4c23-9431-dce635784286)
 
 
 ## Blocks
