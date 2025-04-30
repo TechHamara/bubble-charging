@@ -16,13 +16,23 @@ Bubble Charging Animation Extension is developed by th using Fast.<br>This exten
 
 ## Demo
 
-![Screenshot_2025-04-29-16-20-50-160_edu.mit.appinventor.aicompanion3.jpg](https://github.com/user-attachments/assets/973b4078-daa1-4cf0-9019-5c0a33a30924)
-
+ ![Screenshot_2025-04-29-16-20-50-160_edu.mit.appinventor.aicompanion3.jpg](https://github.com/user-attachments/assets/973b4078-daa1-4cf0-9019-5c0a33a30924) 
 ![Screenshot_2025-04-29-19-26-04-956_appinventor.ai_Techhamara91.bubblecharging.jpg](https://github.com/user-attachments/assets/327e1887-c8b6-4fa8-ad5c-768ba2c63a2b)
 
 ![Screenshot_2025-04-29-19-25-07-488_appinventor.ai_Techhamara91.bubblecharging.jpg](https://github.com/user-attachments/assets/aa16ed19-42ba-4ca2-94a9-b3ae63b0700c)
 
 ![Screenshot_2025-04-29-16-18-51-863_edu.mit.appinventor.aicompanion3.jpg](https://github.com/user-attachments/assets/2209594d-191d-4064-b231-c25ee4a7d6d2)
+
+![ad7a096d-b94e-49ab-a23d-79cf2cce9445.gif](https://github.com/user-attachments/assets/41ca2a6a-ea91-40f0-8b8d-d621f5e0aebc)
+
+![fba7080e-f9e3-4735-8fac-ec959bd8103c.gif](https://github.com/user-attachments/assets/07eab799-b7a4-4111-bd4c-74c1a671419b)
+
+![e2d21493-2b29-43b7-a5e0-06a2951a8e61.gif](https://github.com/user-attachments/assets/89a3d9f5-7e75-4f6a-bb03-4c10aded4460)
+
+![31f1e7c2-a974-4c8e-82fc-cc6e2cdcb146.gif](https://github.com/user-attachments/assets/16861566-1337-4666-99d0-36678b45acd3)
+
+![1fbbf16b-18dc-4034-bc32-3f38e8178b63.gif](https://github.com/user-attachments/assets/f44cd1ea-137c-4df9-a58d-a078f84a459f)
+
 
 
 
